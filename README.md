@@ -26,3 +26,7 @@ Alcuni link utili:
   - OsmAnd: http://www.osmand.net/
   
   - Documentazione ufficiale (in Inglese): http://www.osmand.net/docs/intro
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Blackout-United_Kingdom.png">  For English-speaking users:
