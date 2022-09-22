@@ -29,4 +29,4 @@ Alcuni link utili:
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Blackout-United_Kingdom.png">  For English-speaking users:
+For English-speaking users:
