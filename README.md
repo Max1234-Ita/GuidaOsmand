@@ -1,5 +1,5 @@
 # GuidaOsmand
-Guida non ufficiale a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
+_Guida non ufficiale_ a [OsmAnd](URL "http://www.osmand.net/"), l'app di cartografia e navigazione per Android e iOS -- In Italiano!
 
 <p align="center">
 <img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
