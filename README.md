@@ -24,9 +24,9 @@ dover interpretare quelle istruzioni, magari mentre si ha fretta o ci si trova s
 
 Alcuni link utili:
 
-  - OsmAnd: &nbsp;&nbsp;&nbsp;&nbsp; _ http://www.osmand.net/ _
+  - OsmAnd: &nbsp;&nbsp;&nbsp;&nbsp; http://www.osmand.net/
   
-  - Documentazione ufficiale (in Inglese): &nbsp;&nbsp;&nbsp;&nbsp; _ http://www.osmand.net/docs/intro _
+  - Documentazione ufficiale (in Inglese): &nbsp;&nbsp;&nbsp;&nbsp; http://www.osmand.net/docs/intro
 </p>
 
 <br/>
