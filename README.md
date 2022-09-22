@@ -24,9 +24,9 @@ dover interpretare quelle istruzioni, magari mentre si ha fretta o ci si trova s
 
 Alcuni link utili:
 
-  - OsmAnd: &nbsp;&nbsp;&nbsp;&nbsp; http://www.osmand.net/
+  - OsmAnd: &nbsp;&nbsp;&nbsp;&nbsp; _ http://www.osmand.net/ _
   
-  - Documentazione ufficiale (in Inglese): &nbsp;&nbsp;&nbsp;&nbsp; http://www.osmand.net/docs/intro
+  - Documentazione ufficiale (in Inglese): &nbsp;&nbsp;&nbsp;&nbsp; _ http://www.osmand.net/docs/intro _
 </p>
 
 <br/>
@@ -36,7 +36,7 @@ Alcuni link utili:
 <p>
 <img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   For English-speaking users: sorry, this document was created to help Italian, non-English speaking users in moving their first steps with OsmAnd. 
 
-For information on how to use the app, please refer to the official documentation (which is very detailed and well-written): http://www.osmand.net/docs/intro
+For information on how to use the app, please refer to the official documentation (which is very detailed and well-written):   _ http://www.osmand.net/docs/intro _
 There is currently no English version of this guide, but who knows, maybe we can make a fork in the future. :-)
 </p>
 
