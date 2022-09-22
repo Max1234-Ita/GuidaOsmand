@@ -1,8 +1,7 @@
 # GuidaOsmand
 Guida non ufficiale a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
 
-![alt text](pub/Frontespizio_864x1222.png "Title")
-
+![alt text](pub/Frontespizio_864x1222.png "Title"){width=60%,height:60%}
 La storia di questo documento è iniziata molto tempo fa, raccogliendo e catalogando le tante informazioni che ho avuto modo di
 scambiare, sparse senza un ordine ben preciso tra forum, email privata, chat e file dimenticati negli anfratti più
 remoti dei miei hard disk; Una prima versione ha visto la luce nel 2015, quando OsmAnd era alla versione 1.9.5 ed
