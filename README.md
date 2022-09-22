@@ -28,5 +28,4 @@ Alcuni link utili:
   - Documentazione ufficiale (in Inglese): http://www.osmand.net/docs/intro
 
 
-
-For English-speaking users:
+<img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24"> For English-speaking users:
