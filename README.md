@@ -45,7 +45,8 @@ There is currently no English version of this guide, but who knows, maybe we can
 <sub>
 L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;
 Le icone utilizzate in questo file sono state realizzate da <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  e sono liberamente disponibili in Wikimedia Commons:&nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
-</sub>  
+</sub>
+
 <br/>
 <sub>
 The cover image is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;
