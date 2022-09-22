@@ -5,6 +5,7 @@ _Guida <u>non ufficiale</u> a OsmAnd_, l'app di cartografia e navigazione per An
 <img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
 </p>
 
+<p>
 <img src="pub/Blackout-Italy.png" alt="Italiano" width="24">   La storia di questo documento è iniziata molto tempo fa, raccogliendo e catalogando le tante informazioni che ho avuto modo di
 scambiare, sparse senza un ordine ben preciso tra forum, email privata, chat e file dimenticati negli anfratti più
 remoti dei miei hard disk; Una prima versione ha visto la luce nel 2015, quando OsmAnd era alla versione 1.9.5 ed
@@ -26,8 +27,10 @@ Alcuni link utili:
   - OsmAnd: http://www.osmand.net/
   
   - Documentazione ufficiale (in Inglese): http://www.osmand.net/docs/intro
+</p>
 
 
-
+<p>
 <img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   For English-speaking users: sorry, this document was created to help Italian, non-English speaking users in moving their first steps with OsmAnd. For information on how to use the app, please refer to the official documentation (which is very detailed and well-written): http://www.osmand.net/docs/intro
 There is currently no English version of this guide, but who knows, maybe we can make a fork in the future. :-)
+</p>
