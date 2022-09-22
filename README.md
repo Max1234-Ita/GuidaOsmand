@@ -5,8 +5,7 @@ _Guida <u>non ufficiale</u> a OsmAnd_, l'app di cartografia e navigazione per An
 <img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
 </p>
 
-<img src="pub/Blackout-Italy.png" alt="Italiano" width=64>
-La storia di questo documento è iniziata molto tempo fa, raccogliendo e catalogando le tante informazioni che ho avuto modo di
+<img src="pub/Blackout-Italy.png" alt="Italiano" width="25%"> La storia di questo documento è iniziata molto tempo fa, raccogliendo e catalogando le tante informazioni che ho avuto modo di
 scambiare, sparse senza un ordine ben preciso tra forum, email privata, chat e file dimenticati negli anfratti più
 remoti dei miei hard disk; Una prima versione ha visto la luce nel 2015, quando OsmAnd era alla versione 1.9.5 ed
 era decisamente meno intuitivo da usare di quanto non sia ora.
