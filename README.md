@@ -1,5 +1,5 @@
 # GuidaOsmand
-_Guida non ufficiale_ a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
+Guida *non ufficiale* a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
 
 <p align="center">
 <img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
@@ -18,6 +18,7 @@ scritta solo in lingua Inglese.
 
 Anche se oggi tante persone conoscono più o meno bene quella lingua, rimane pur sempre un disagio il
 dover interpretare quelle istruzioni, magari mentre si ha fretta o ci si trova sotto pressione; Le soluzioni proposte qui non sono forse ottimali ma in certi casi, tra “una soluzione generica e superficiale” e “nessuna soluzione a portata di mano” è ancora meglio la prima!
+
 
 
 Alcuni link utili:
