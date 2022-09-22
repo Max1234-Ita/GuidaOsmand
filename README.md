@@ -34,7 +34,9 @@ Alcuni link utili:
 
 
 <p>
-<img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   For English-speaking users: sorry, this document was created to help Italian, non-English speaking users in moving their first steps with OsmAnd. For information on how to use the app, please refer to the official documentation (which is very detailed and well-written): http://www.osmand.net/docs/intro
+<img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   For English-speaking users: sorry, this document was created to help Italian, non-English speaking users in moving their first steps with OsmAnd. 
+
+For information on how to use the app, please refer to the official documentation (which is very detailed and well-written): http://www.osmand.net/docs/intro
 There is currently no English version of this guide, but who knows, maybe we can make a fork in the future. :-)
 </p>
 
