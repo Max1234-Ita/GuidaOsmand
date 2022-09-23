@@ -49,15 +49,13 @@ For information on how to use the app, please refer to the official documentatio
 <br/>
 
 <sub>
-L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;
-Alcune delle icone utilizzate in questa pagina sono state realizzate da <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  e sono liberamente disponibili in Wikimedia Commons:&nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
+L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;<br/>Alcune delle icone utilizzate in questa pagina sono state realizzate da <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  e sono liberamente disponibili in Wikimedia Commons:&nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
 </sub>
 
 <br/>
 <br/>
 <sub>
-The cover image is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;
-Some of the icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
+The cover image is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;<br/>Some of the icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
 </sub>
 <br/>
 <br/>
