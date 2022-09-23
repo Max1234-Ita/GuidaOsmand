@@ -2,7 +2,7 @@
 Guida **<u>non ufficiale</u>** a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
 
 <a href="https://pagedart.com">
-  <img src="pub/Scarica.png">
+  <img src="pub/Scarica.png" width = "25%">
 </a>
 
 <p align="center">
