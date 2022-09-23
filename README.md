@@ -55,7 +55,7 @@ L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia Op
 <br/>
 <br/>
 <sub>
-The cover image is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;<br/>Some of the icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
+The cover picture is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;<br/>Some of the icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
 </sub>
 <br/>
 <br/>
