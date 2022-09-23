@@ -17,7 +17,7 @@ remoti dei miei hard disk; Una prima versione ha visto la luce nel 2015, quando 
 era decisamente meno intuitivo da usare di quanto non sia ora.
 
 Oggi la Guida vorrebbe essere un aiuto per gli utenti meno esperti a prendere confidenza con OsmAnd, di
-consultazione rapida, spero... ma soprattutto in Italiano!
+consultazione rapida (spero) ma soprattutto in Italiano!
 Non vuole essere un manuale d’istruzioni completo: per illustrare tutte le funzioni nei minimi dettagli esiste già la
 documentazione ufficiale, che è davvero esaustiva, ben fatta e merita di certo la consultazione... purtroppo, però, è
 scritta solo in lingua Inglese.
