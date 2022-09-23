@@ -48,6 +48,7 @@ Le icone utilizzate in questo file sono state realizzate da <a href="https://com
 </sub>
 
 <br/>
+<br/>
 <sub>
 The cover image is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;
 The icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
