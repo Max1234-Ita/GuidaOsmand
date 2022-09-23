@@ -1,8 +1,8 @@
 # GuidaOsmand
 Guida **<u>non ufficiale</u>** a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
 
-<a href="/Guida Non Ufficiale ad Osmand.zip">
-  <img src="pub/Scarica.png" alt="Scarica" width="25">
+<a href="https://github.com/Max1234-Ita/GuidaOsmand/raw/main/Guida%20Non%20Ufficiale%20ad%20Osmand.zip">
+  <img src="pub/Scarica.png" alt="Scarica" width="150">
 </a>
 
 <p align="center">
