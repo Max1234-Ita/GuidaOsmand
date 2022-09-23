@@ -1,6 +1,10 @@
 # GuidaOsmand
 Guida **<u>non ufficiale</u>** a OsmAnd, l'app di cartografia e navigazione per Android e iOS -- In Italiano!
 
+<a href="https://pagedart.com">
+  <img src="pub/scarica.png">
+</a>
+
 <p align="center">
 <img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
 </p>
@@ -45,14 +49,14 @@ For information on how to use the app, please refer to the official documentatio
 
 <sub>
 L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;
-Le icone utilizzate in questo file sono state realizzate da <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  e sono liberamente disponibili in Wikimedia Commons:&nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
+Alcune delle icone utilizzate in questa pagina sono state realizzate da <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  e sono liberamente disponibili in Wikimedia Commons:&nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
 </sub>
 
 <br/>
 <br/>
 <sub>
 The cover image is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;
-The icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
+Some of the icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
 </sub>
 <br/>
 <br/>
