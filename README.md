@@ -25,7 +25,7 @@ scritta solo in lingua Inglese.
 Anche se oggi tante persone conoscono più o meno bene quella lingua, rimane pur sempre un disagio il
 dover interpretare quelle istruzioni, magari mentre si ha fretta o ci si trova sotto pressione; Le soluzioni proposte qui non sono forse ottimali ma in certi casi, tra “una soluzione generica e superficiale” e “nessuna soluzione a portata di mano” è ancora meglio la prima!
 
-
+<br/>
 
 Alcuni link utili:
 
