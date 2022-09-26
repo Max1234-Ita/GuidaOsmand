@@ -39,9 +39,9 @@ Alcuni link utili:
 
 
 <p>
-<img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   For English-speaking users: sorry, this document was created to help Italian, non-English speaking people in moving their first steps with OsmAnd. 
+<img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   I have created this document to help Italian people, like me, moving their first steps with OsmAnd. 
 
-For information on how to use the app, please refer to the official documentation (which is actually very detailed and well-written):    http://www.osmand.net/docs/intro 
+For information about the use of the app you can easly refer to the official documentation which is actually very detailed and well-written at http://www.osmand.net/docs/intro. 
 
   There is currently no English version of this guide so far, but who knows, maybe we can make a fork in the future. :-)
 </p>
