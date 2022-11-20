@@ -33,7 +33,7 @@ vista di un futuro rilascio.
 
 <img src="img/weblate_04.png">
 
-- Fare click sulla sezione che si desidera modificare, ad esempio Stringhe non tradotte; si accede così all'elenco dei testi che necessitano di traduzione o di revisione; Digitare il proprio suggerimento e quindi inviarlo tramite il pulsante Suggerisci . 
+- Fare click sulla sezione che si desidera modificare, ad esempio _Stringhe non tradotte_; si accede così all'elenco dei testi che necessitano di traduzione o di revisione; Digitare il proprio suggerimento e quindi inviarlo tramite il pulsante Suggerisci . 
 
 <img src="img/weblate_05.png">
 
