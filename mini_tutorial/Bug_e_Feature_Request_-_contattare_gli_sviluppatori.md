@@ -1,3 +1,5 @@
+# SEGNALARE BUG E RICHIEDERE NUOVE FUNZIONI
+
 <p><i><b>
 Ho scoperto un problema nel funzionamento di OsmAnd. Posso contattare gli sviluppatori per segnalarlo?</b></i>
 
@@ -27,7 +29,7 @@ ___
 <p><i><b>
 Vorrei aprire una segnalazione allo sviluppo ma non ho mai usato GitHub, cosa devo fare?</b></i>
 
-Ecco alcune istruzioni di base:
+# Ecco alcune istruzioni di base:
 - Innanzitutto bisogna aprire la pagina web https://github.com/osmandapp/OsmAnd/issues con un
 qualunque browser: funziona anche da smartphone e tablet ma sarebbe meglio usare un computer, se
 possibile. Eh si, è tutta in inglese...
@@ -52,6 +54,8 @@ particolare:
   → Routing report per segnalare un errore nel calcolo di un itinerario;
   → Feature request per proporre una nuova funzione.
   
+<IMG SRC="img/Github_ReportTypes.png">
+  
 - Fare click sul corrispondente pulsante _"Get started"_ per proseguire.
 
 - Una volta entrati nella sezione _Bug Report_, verrà mostrato un modulo con alcuni campi già predisposti. 
@@ -73,6 +77,8 @@ configurazione sono state selezionate, e con quale ordine.
   
   - _**Your Environment:**_
   Specificare qui la versione di OsmAnd nella quale si è trovato il problema (è sempre bene verificare che l'errore sia presente nella versione rilasciata più di recente), la versione del sistema operativo utilizzato e marca/modello esatto del dispositivo: anche se può sembrare strano, a volte un bug si verifica solo in particolari versioni del software o con uno specifico modello di dispositivo.
+
+  <img srg="img/Github_Report_esempio.png">
   
   Al link seguente si può trovare un esempio di come dovrebbe essere compilato un bug-report:
 https://github.com/osmandapp/OsmAnd/issues/14713
