@@ -1,6 +1,6 @@
 <IMG SRC="img/Openstreetmap_logo_256X256.png" style="width:64px;height:64px;">
 
-# CHIEDERE INFORMAZIONI SULLA MAPPA E LA MAPPATURA
+# CHIEDERE INFORMAZIONI SU MAPPA E MAPPATURA
 
 <b><i>
 Pensavo che il problema che incontrato fosse dovuto ad un errore di OsmAnd, invece alcuni utenti mi
@@ -14,8 +14,10 @@ Chi ha un minimo di competenza nella mappatura può verificare di persona e, se 
 correzioni necessarie, altrimenti si può contattare la community italiana di OpenStreetMap per chiedere
 informazioni e/o segnalare il problema. I canali utilizzabili sono:
 - <b>Canale Telegram OpenStreetMapItalia</b>: https://t.me/OpenStreetMapItalia
+  
 - <b>Forum OpenStreetMap Community Italia</b>: https://community.openstreetmap.org/c/communities/it/60
 
+  <br/>
 In entrambi i casi è prevista un'iscrizione: per l'accesso al canale Telegram è previsto un doppio passaggio,
 allo scopo di contrastare lo “spam”: il link riportato sopra rimanda ad un gruppo pubblico al quale
 presentarsi; si viene in seguito invitati a far parte del “vero” gruppo, privato.
