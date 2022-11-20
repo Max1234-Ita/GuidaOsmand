@@ -1,4 +1,5 @@
 <img src="img/Red_bug.svg_by_Mushii_WikimediaCommons.png" style="width:64px;height:64px;">
+
 # SEGNALARE BUG E RICHIEDERE NUOVE FUNZIONI
 
 <p><i><b>
