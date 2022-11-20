@@ -1,3 +1,4 @@
+<img src="img/Red_bug.svg_by_Mushii_WikimediaCommons.png" style="width:64px;height:64px;">
 # SEGNALARE BUG E RICHIEDERE NUOVE FUNZIONI
 
 <p><i><b>
@@ -78,7 +79,7 @@ configurazione sono state selezionate, e con quale ordine.
   - _**Your Environment:**_
   Specificare qui la versione di OsmAnd nella quale si è trovato il problema (è sempre bene verificare che l'errore sia presente nella versione rilasciata più di recente), la versione del sistema operativo utilizzato e marca/modello esatto del dispositivo: anche se può sembrare strano, a volte un bug si verifica solo in particolari versioni del software o con uno specifico modello di dispositivo.
 
-  <img srg="img/Github_Report_esempio.png">
+  <img src="img/Github_Report_esempio.png">
   
   Al link seguente si può trovare un esempio di come dovrebbe essere compilato un bug-report:
 https://github.com/osmandapp/OsmAnd/issues/14713
