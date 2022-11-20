@@ -4,28 +4,38 @@
 scritte in Inglese. Posso fare qualcosa per sistemare il problema?</i></b>
 
 La traduzione dell'interfaccia utente è aperta a tutti gli utenti che desiderano contribuire. Chiunque può farlo, attraverso la piattaforma Hosted Weblate; Ecco come:
-- Aprire la pagina web https://hosted.weblate.org/projects/osmand/ in un qualsiasi browser
+- Aprire la pagina web https://hosted.weblate.org/projects/osmand/ in un qualsiasi browser:
+
+<img src="img/weblate_01.png">
+
 - Se si dispone già di un account, selezionane la voce Accedi, nella parte superiore destra della schermata, diversamente occorre crearne uno: a tale scopo, fare click su Registrazione; Verranno
 richieste le seguenti informazioni:
+
   - Un indirizzo Email valido 
+ 
   - Il nome utente che si desidera utilizzare
+ 
   - Nome e cognome (quest'informazione non sarà resa pubblica)
+ 
   - Risposta ad una domanda di sicurezza anti-spam
   
   In alternativa, si può eseguire l'accesso con un account già esistente su una piattaforma tra quelle supportate (Google, Facebook, Github, ecc.)
 
 - Una volta eseguito l'accesso, ci si trova nella pagina principale dedicata alla traduzione dell'interfaccia utente di OsmAnd.
-Sono elencate alcune aree principali: in particolare, in /Android e /iOS si trova la traduzione dei testi per gli specifici Sistemi Operativi,
-mentre le altre (/OsmAnd e /Phrases) sono destinate a testi comuni a tutte le versioni; La sezione /Telegram, è invece
-dedicata alla traduzione del plugin di OsmAnd che consente di condividere la propria posizione in tempo reale con altri utenti
-attraverso messaggi istantanei sulla piattaforma Telegram.
+Sono elencate alcune aree principali: in particolare, in /Android e /iOS si trova la traduzione dei testi per gli specifici Sistemi Operativi, mentre le altre (/OsmAnd e /Phrases) sono destinate a testi comuni a tutte le versioni; La sezione /Telegram, è invece dedicata alla traduzione del plugin di OsmAnd che consente di condividere la propria posizione in tempo reale con altri utenti attraverso messaggi istantanei sulla piattaforma Telegram.
+
+<img src="img/weblate_03.png">
 
 - Fare click sul nome dell'area nella quale si desidera intervenire, ad esempio Phrases; selezionare quindi la lingua che interessa (Italiano).
 - Viene mostrata una schermata che riassume lo stato attuale della traduzione (in rosso, le parti mancanti). Nonostante vi sia l'avviso che “la traduzione è temporaneamente chiusa alle modifiche per
 manutenzione”, è comunque possibile inviare i propri suggerimenti: verranno presi in considerazione in
 vista di un futuro rilascio.
 
-- Fare click sulla sezione che si desidera modificare, ad esempio Stringhe non tradotte; si accede cosìall'elenco dei testi che necessitano di traduzione o di revisione; Digitare il proprio suggerimento e quindi inviarlo tramite il pulsante Suggerisci . 
+<img src="img/weblate_04.png">
+
+- Fare click sulla sezione che si desidera modificare, ad esempio Stringhe non tradotte; si accede così all'elenco dei testi che necessitano di traduzione o di revisione; Digitare il proprio suggerimento e quindi inviarlo tramite il pulsante Suggerisci . 
+
+<img src="img/weblate_05.png">
 
 <br/>
 <b>ATTENZIONE:</b>
@@ -44,7 +54,7 @@ In questo caso, la traduzione suggerita è:
 <br/>
 *Significato dei caratteri speciali:*
 
-  - _%_  &nbsp;&nbsp;&nbsp;&nbsp;   identifica la stringa: %1 è la prima stringa del messaggio, %2 la seconda, ecc.
+  - _%_  &nbsp;&nbsp;&nbsp;&nbsp;   identifica un parametro: %1 è il primo del messaggio, %2 il secondo, ecc.
   - _$_  &nbsp;&nbsp;&nbsp;&nbsp;   indica quale tipo d'informazione andrà stampato: $d = Numero, $s = Testo, ecc.
   
   <br/>
