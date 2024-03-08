@@ -79,10 +79,27 @@ configurazione sono state selezionate, e con quale ordine.
   
   - _**Your Environment:**_
   Specificare qui la versione di OsmAnd nella quale si è trovato il problema (è sempre bene verificare che l'errore sia presente nella versione rilasciata più di recente), la versione del sistema operativo utilizzato e marca/modello esatto del dispositivo: anche se può sembrare strano, a volte un bug si verifica solo in particolari versioni del software o con uno specifico modello di dispositivo.
-
+  
+  <br>
+  <br>
+  
   <img src="img/Github_Report_esempio.png">
   
-  Al link seguente si può trovare un esempio di come dovrebbe essere compilato un bug-report:
+  <br>
+  <br>
+  <br>
+  
+ # IMPORTANTE:   
+ <img src="img/n_versione.png" width="360" align="right" hspace=16 >
+    <p align=justify>Lo sviluppatore ha bisogno di conoscere <u>esattamente</u> il numero di versione dell' app nella quale si è osservato il problema. Tale numero si può reperire facilmente nel menu  → Aiuto → A proposito di OsmAnd → Novità. 
+    
+    Indicare “la versione più recente” o “quella rilasciata la settimana scorsa” non è utile a nessuno.
+    </p>
+  <br>
+  <br>
+  <br>
+  
+Al link seguente si può trovare un esempio di come dovrebbe essere compilato un bug-report:
 https://github.com/osmandapp/OsmAnd/issues/14713
   
   
