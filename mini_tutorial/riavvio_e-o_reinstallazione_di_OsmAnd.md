@@ -89,7 +89,7 @@ Se si è abbonati al servizio Pro, si potranno ripristinare mappe, tracciati ecc
 <br>
 <br>
 
-<img src="img/Attenzione.png" style="width:48px;height:48px;" align="left" hspace=10 vspace=20>
+<img src="img/attenzione.png" style="width:48px;height:48px;" align="left" hspace=10 vspace=20>
 
 ## ATTENZIONE
 <br>
