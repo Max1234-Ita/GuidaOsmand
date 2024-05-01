@@ -1,6 +1,6 @@
 <img src="img/480px-Crystal_button_cancel.png" style="width:64px;height:64px;">
 
-# ARRESTO DEL PROCESSO DI OSMAND**
+# ARRESTO DEL PROCESSO DI OSMAND
 <p><i><b>Se torno alla schermata Home del mio dispositivo, OsmAnd smette di funzionare?</i></b>
 
 
@@ -66,7 +66,8 @@ Si raccomanda di arrestare completamente OsmAnd (vedi paragrafo precedente) prim
 ## Reinstallazione “da zero” (“Fresh install”)
 Quando si vuole ottenere una pulizia più approfondita dei dati di OsmAnd, ad esempio perchè si comporta in maniera inconsistente, invece di limitarsi a disinstallarlo con la procedura standard si può procedere come segue:
 
-* Avviare OsmAnd (se possibile) ed aprire il menu */// → Impostazioni → Impostazioni OsmAnd → Cartella salvataggio dei dati*; Prendere nota del percorso selezionato, ad esempio: **/storage/emulated/0/Android/data/net.osmand.plus/files**
+### Backup
+* Avviare OsmAnd (se possibile) ed aprire il menu <i><b>/// → Impostazioni → Impostazioni OsmAnd → Cartella salvataggio dei dati</i></b>; Prendere nota del percorso selezionato, ad esempio: <b><i>/storage/emulated/0/Android/data/net.osmand.plus/files</b></i>
 
 * Arrestare OsmAnd premendo alcune volte il tasto “Indietro” del dispositivo;
 
@@ -74,13 +75,19 @@ Quando si vuole ottenere una pulizia più approfondita dei dati di OsmAnd, ad es
 
 * (Facoltativo) Fare una copia di backup di tutto il materiale che si desidera conservare, ad esempio le mappe (file .obf), preferiti (cartella favorites), e tracce registrate/pianificate (cartella tracks).  
 Si raccomanda di evitare qualsiasi altro tipo di file: se si esegue un backup di un file di configurazione corrotto e poi lo si ripristina, l'intera procedura sarà vanificata.
-Al termine delle operazioni di backup, chiudere il File Manager;
 
+* La procedura di backup potrebbe durare da pochi secondi a molti minuti: Assicurarsi di mantenere il dispositivo collegato all'alimentazione esterna per evitare che il dispositivo possa interrompere le operazioni per l'intervento del rispsrmio energetico.
+
+* Al termine delle operazioni di backup, chiudere il File Manager.
+
+### Disinstallazione completa
 * Disinstallare OsmAnd con la procedura standard (tocco lungo sull'icona, Disinstalla): se il Sistema Operativo chiede se si desidera mantenere i dati dell'app, rispondere NO
 
 * Da File Manager, tornare alla cartella di memorizzazione dati: se esiste ancora, eliminare tutto il suo contenuto.
 * Reinstallare OsmAnd normalmente;
 
+
+### Ripristino dei dati
 * (Facoltativo) Ripristinare il materiale salvato (mappe, tracce, ecc.) nella stessa posizione in cui si trovava prima, cosicché OsmAnd, all'avvio, possa già trovare tutti i dati ed indicizzarli correttamente.
 Se si è abbonati al servizio Pro, si potranno ripristinare mappe, tracciati ecc. semplicemente scaricandoli dal server attravarso la funzione di sincronizzazione del proprio account OsmAnd Cloud.
 
@@ -93,7 +100,7 @@ Se si è abbonati al servizio Pro, si potranno ripristinare mappe, tracciati ecc
 
 ## ATTENZIONE
 <br>
-Se i dati di OsmAnd si trovavano su una scheda di espansione (SD/MicroSD) esterna e quest'ultima viene sostituita, prima di procedere al ripristino sarà necessario tornare al menu */// → Impostazioni → Impostazioni OsmAnd → Cartella salvataggio dei dati* e ribadire l'impostazione:
+Se i dati di OsmAnd si trovavano su una scheda di espansione (SD/MicroSD) esterna e quest'ultima viene sostituita, prima di procedere al ripristino sarà necessario tornare al menu <i><b>/// → Impostazioni → Impostazioni OsmAnd → Cartella salvataggio dei dati</b></i> e ribadire l'impostazione:
 
 * Assicurarsi che sia selezionata la memorizzazione su memoria interna; Se non lo è, selezionarla e riavviare OsmAnd
 
