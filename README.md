@@ -11,7 +11,9 @@ Guida **<u>non ufficiale</u>** a OsmAnd, l'app di cartografia e navigazione per 
 </p>
 
 <p>
-<img src="pub/Blackout-Italy.png" alt="Italiano" width="24">   La storia di questo documento è iniziata molto tempo fa, raccogliendo e catalogando le tante informazioni che ho avuto modo di
+<img src="pub/ita.png" alt="Italiano" width="32" margin>   
+
+La storia di questo documento è iniziata molto tempo fa, raccogliendo e catalogando le tante informazioni che ho avuto modo di
 scambiare, sparse senza un ordine ben preciso tra forum, email privata, chat e file dimenticati negli anfratti più
 remoti dei miei hard disk; Una prima versione ha visto la luce nel 2015, quando OsmAnd era alla versione 1.9.5 ed
 era decisamente meno intuitivo da usare di quanto non sia ora.
@@ -39,7 +41,9 @@ Alcuni link utili:
 
 
 <p>
-<img src="pub/Blackout-United_Kingdom.png" alt="Italiano" width="24">   I have created this document to help Italian people, like me, moving their first steps with OsmAnd.
+<img src="pub/uk.png" alt="English" width="32" >   
+
+I have created this document to help Italian people, like me, moving their first steps with OsmAnd.
 
 For information about the use of the app you can easily refer to the official documentation, which is actually very detailed and well-written, at http://www.osmand.net/docs/intro.
 
@@ -49,7 +53,7 @@ There is currently no English version of this guide, but who knows, maybe you ca
 <br/>
 
 <sub>
-L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;<br/>Alcune delle icone utilizzate in questa pagina sono state realizzate da <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  e sono liberamente disponibili in Wikimedia Commons:&nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
+L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;<br/>Alcune delle icone utilizzate in questa pagina sono state realizzate da <a href="https://freebiesbug.com/psd-freebies/100-flat-flag-psd-icons" target="_blank">Muharrem Şenyıl</a>  e sono liberamente disponibili:&nbsp;&nbsp;&nbsp;&nbsp; https://freebiesbug.com/psd-freebies/100-flat-flag-psd-icons
 </sub>
 
 <br/>
