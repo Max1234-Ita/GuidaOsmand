@@ -51,10 +51,12 @@ pulsante Sign up (“Registrati”) e seguire le indicazioni per la creazione di
 
 - Una volta eseguito l'accesso, fare click sul pulsante New issue ; Scegliere quindi il tipo di segnalazione da aprire, in
 particolare:
-  → Support request per richiedere un suggerimento;
-  → Bug report per segnalare un errore nell'applicazione;
-  → Routing report per segnalare un errore nel calcolo di un itinerario;
-  → Feature request per proporre una nuova funzione.
+
+  → <a href="https://github.com/osmandapp/OsmAnd/issues/new?assignees=&labels=&projects=&template=1-support-request.md" target="_blank">_**Support request**_</a> per richiedere un suggerimento;<br>
+  → <a href="https://github.com/osmandapp/OsmAnd/issues/new?assignees=&labels=&projects=&template=2-bug-report.yml" target="_blank">_**Bug report**_</a> per segnalare un errore nell'applicazione;<br>
+  → <a href="https://github.com/osmandapp/OsmAnd/issues/new?assignees=&labels=&projects=&template=3-routing-report.yml" target="_blank">_**Routing report**_</a> per segnalare un errore nel calcolo di un itinerario;<br>
+  → <a href="https://github.com/osmandapp/OsmAnd/issues/new?assignees=&labels=&projects=&template=4-feature_request.yml" target="_blank">_**Feature request**_</a> per proporre una nuova funzione.<br>
+  <br>
   
 <IMG SRC="img/Github_ReportTypes.png">
   
@@ -91,9 +93,11 @@ configurazione sono state selezionate, e con quale ordine.
   
  # IMPORTANTE:   
  <img src="img/n_versione.png" width="360" align="right" hspace=16 >
-    <p align=justify>Lo sviluppatore ha bisogno di conoscere <u>esattamente</u> il numero di versione dell' app nella quale si è osservato il problema. Tale numero si può reperire facilmente nel menu  → Aiuto → A proposito di OsmAnd → Novità. 
-    
-    Indicare “la versione più recente” o “quella rilasciata la settimana scorsa” non è utile a nessuno.
+    <p align=justify>Lo sviluppatore ha bisogno di conoscere <u>esattamente</u> il numero di versione dell' app nella quale si è osservato il problema. Tale numero si può reperire facilmente nel menu  → Aiuto → A proposito di OsmAnd → Novità.
+      <br><br>
+Indicare “la versione più recente” o “quella rilasciata la settimana scorsa” non è utile a nessuno. 
+      <br><br>
+Avendone modo, sarebbe anche bene verificare se il problema si presenta anche sulla versione più recente dell'app: potrebbe essere già stato risolto!
     </p>
   <br>
   <br>
