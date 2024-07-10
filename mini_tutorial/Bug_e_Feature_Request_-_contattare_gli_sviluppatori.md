@@ -97,7 +97,7 @@ configurazione sono state selezionate, e con quale ordine.
       <br><br>
 Indicare “la versione più recente” o “quella rilasciata la settimana scorsa” non è utile a nessuno. 
       <br><br>
-Avendone modo, sarebbe anche bene verificare se il problema si presenta anche sulla versione più recente dell'app: potrebbe essere già stato risolto!
+Avendone modo, sarebbe bene verificare se il problema si presenta anche sulla versione più recente dell'app: potrebbe essere già stato risolto!
     </p>
   <br>
   <br>
