@@ -16,8 +16,7 @@ Stile di rendering basato su OsmAnd (default): I confini amministrativi sono pi√
 		<td><img src="admin_boundaries_highlighted.png"></td></td>
 	</tr>
 	<tr>
-	<td></td>
-	<td></td>
+	<td><td><p align="center"><a href="Highlighted Boundaries.render.xml">Scarica il file: Highlighted Boundaries.render.xml</a></p></td></td>
 	</tr>
 	</tr>
 </tbody>
@@ -40,7 +39,7 @@ Come il precedente: I confini amministrativi sono pi√π marcati, inoltre l'itiner
 	</tr>
 	<tr>
 	<td></td>
-	<td></td>
+	<td><p align="center"><a href="Highlighted Admin Borders v2.render.xml"> Scarica il file: Highlighted Admin Borders v2.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
