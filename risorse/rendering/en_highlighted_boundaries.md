@@ -23,8 +23,33 @@ Map rendering style based on OsmAnd (default), with more highlighted Administrat
 </tbody>
 </table>
 
+
+# **Highlighted Admin Boundaries v.2**
+More highlighted Admin Boundaries, as in the previous version; in addition, the trail in Night mode is more visible and easily recognizable.
+
+<table>
+<thead>
+	<tr>
+		<th>OsmAnd Default - Night</th>
+		<th>Highlighted Boundaries v.2 - Night</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+	    <td><img src="default_night.png"></td>
+		<td><img src="admin_boundaries_highlighted_v2_night.png"></td></td>
+	</tr>
+	<tr>
+	<td></td>
+	<td></td>
+	</tr>
+	</tr>
+</tbody>
+</table>
+
+
 ## How to install:
-* Get the full path of the OsmAnd Storege directory from menu /// -> Settings -> OsmAnd Settings -> Data storage folder);
+* Get the full path of the OsmAnd Storage directory from menu */// -> Settings -> OsmAnd Settings -> Data storage folder)*;
 * Download the file *Highlighted Boundaries.render.xml* on your device;
 * Copy the file in the OsmAnd storage directory;
 * On Android devices: from the Home screen, open the Recent Apps list and remove OsmAnd from there (if present);

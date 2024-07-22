@@ -23,6 +23,29 @@ Stile di rendering basato su OsmAnd (default): I confini amministrativi sono pi�
 </tbody>
 </table>
 
+# **Highlighted Admin Boundaries v.2**
+Come il precedente: I confini amministrativi sono più marcati, inoltre l'itinerario in modalità Notte è molto più visibile.
+
+<table>
+<thead>
+	<tr>
+		<th>OsmAnd Default - Notte</th>
+		<th>Highlighted Boundaries v.2 - Notte</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+	    <td><img src="default_night.png"></td>
+		<td><img src="admin_boundaries_highlighted_v2_night.png"></td></td>
+	</tr>
+	<tr>
+	<td></td>
+	<td></td>
+	</tr>
+	</tr>
+</tbody>
+</table>
+
 ## Come installare:
 * Prendere nota del percorso della directory di salvataggio dati impostata in OsmAnd;   
 (menu /// -> Impostazioni -> Impostazioni OsmAnd -> Cartella salvataggio dei dati);
