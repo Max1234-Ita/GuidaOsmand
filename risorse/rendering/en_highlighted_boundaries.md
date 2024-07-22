@@ -25,7 +25,7 @@ Map rendering style based on OsmAnd (default), with more highlighted Administrat
 
 
 # **Highlighted Admin Boundaries v.2**
-More highlighted Admin Boundaries, as in the previous version; in addition, the trail in Night mode is more visible and easily recognizable.
+More highlighted Admin Boundaries, as in the previous version; in addition, the route trail in Night mode is more visible and easily recognizable.
 
 <table>
 <thead>
