@@ -17,7 +17,7 @@ Map rendering style based on OsmAnd (default), with more highlighted Administrat
 	</tr>
 	<tr>
 	<td></td>
-	<td></td>
+	<td><p align="center"><a href="Highlighted Boundaries.render.xml">Download file: Highlighted Boundaries.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
@@ -41,7 +41,7 @@ More highlighted Admin Boundaries, as in the previous version; in addition, the 
 	</tr>
 	<tr>
 	<td></td>
-	<td></td>
+	<td><p align="center"><a href="Highlighted Admin Borders v2.render.xml">Download file: Highlighted Admin Borders v2.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
