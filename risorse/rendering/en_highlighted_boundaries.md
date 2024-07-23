@@ -17,7 +17,7 @@ Map rendering style based on OsmAnd (default), with more highlighted Administrat
 	</tr>
 	<tr>
 	<td></td>
-	<td></td>
+	<td>Download file: <p align="center"><a href="Highlighted Boundaries.render.xml">Highlighted Boundaries.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
@@ -25,13 +25,13 @@ Map rendering style based on OsmAnd (default), with more highlighted Administrat
 
 
 # **Highlighted Admin Boundaries v.2**
-More highlighted Admin Boundaries, as in the previous version; in addition, the trail in Night mode is more visible and easily recognizable.
+More highlighted Admin Boundaries, same as in the previous version; in addition, the route trail is more visible and easily recognizable in Night mode.
 
 <table>
 <thead>
 	<tr>
 		<th>OsmAnd Default - Night</th>
-		<th>Highlighted Boundaries v.2 - Night</th>
+		<th>Highlighted Borders v.2 - Night</th>
 	</tr>
 </thead>
 <tbody>
@@ -39,9 +39,13 @@ More highlighted Admin Boundaries, as in the previous version; in addition, the 
 	    <td><img src="default_night.png"></td>
 		<td><img src="admin_boundaries_highlighted_v2_night.png"></td></td>
 	</tr>
+		<tr>
+	    <td><img src="default_night_2.png"></td>
+		<td><img src="admin_boundaries_highlighted_v2_night_2.png"></td></td>
+	</tr>
 	<tr>
 	<td></td>
-	<td></td>
+	<td>Download file: <p align="center"><a href="Highlighted Admin Borders v2.render.xml">Highlighted Admin Borders v2.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
