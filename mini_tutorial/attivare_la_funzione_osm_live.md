@@ -52,7 +52,7 @@ Una volta attivato il servizio, occorre avviare la ricezione automatica degli ag
 
 * Selezionare le mappe (una o più) per le quali si desidera ottenere gli aggiornamenti Live, spostando il relativo selettore. 
 
-* Se lo si desidera, modificare le impostazioni di aggiornamento della singola mappa (frequenza, scaricamento da qualunque rete o solo tramite Wi-Fi) toccando il nome della medesima, anziché il selettore.
+* Se lo si desidera, modificare le impostazioni di aggiornamento della singola mappa (aggiornamento ogni settimana, ogni giorno oppure ogni ora), scaricamento da qualunque rete o solo tramite Wi-Fi) toccando il nome della medesima, anziché il selettore.
 
 <p align="center"><img src="img/Attivazione Live.jpg"></p>
 
