@@ -4,6 +4,7 @@ OsmAnd Live è una funzionalità che permette di ricevere più di frequente gli 
 
 Normalmente, le mappe vettoriali offline vengono innovate ogni 30 giorni circa: abbonandosi al servizio OsmAnd Live si può scegliere di ricevere gli aggiornamenti ogni settimana, ogni giorno oppure ogni ora.
 
+<br>
 
 # Come faccio ad attivare OsmAnd Live?
 
@@ -33,10 +34,10 @@ La prima riga evidenzia, in blu, la somma dei contributi degli ultimi 2 mesi: in
 <br>
 <p align="center"><img src="img/OSM - Conteggio contributi_a.jpg"></p>
 
-___
 
 **Il conteggio dei contributi non è sempre immediato**: OsmAnd Live potrebbe quindi attivarsi anche dopo alcune ore o alcuni giorni dal caricamento delle proprie modifiche.
 
+<br>
 
 > **NOTA**: *Si considera “contributo” qualsiasi operazione compiuta sugli elementi della mappa: ad esempio mappare una panchina nel parco, una fontanella che eroga acqua potabile o aggiornare la direzione di un senso unico in una strada contano rispettivamente “1”. Anche aggiustare la geometria di un edificio già mappato conta “1”, ma il valore si può incrementare aggiungendo dettagli come ingressi, numeri civici o negozi che si trovano al suo interno e (se conosciuti) i relativi orari di apertura. Mappando oggetti più grandi (una strada, un bosco) si possono raggiungere in breve tempo quantità considerevoli di modifiche.*
 >
@@ -54,6 +55,8 @@ Una volta attivato il servizio, occorre avviare la ricezione automatica degli ag
 
 * Se lo si desidera, modificare le impostazioni di aggiornamento della singola mappa (aggiornamento ogni settimana, ogni giorno oppure ogni ora, scaricamento da qualunque rete o solo tramite Wi-Fi) toccando il nome della medesima, anziché il selettore.
 
+<br>
+<br>
 <p align="center"><img src="img/Attivazione Live.jpg"></p>
 
 
