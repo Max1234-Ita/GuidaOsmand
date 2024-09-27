@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="1" class="java.lang.String" itemvalue="keyboard" />
+            <item index="2" class="java.lang.String" itemvalue="mousekey" />
+            <item index="3" class="java.lang.String" itemvalue="numpy" />
+            <item index="4" class="java.lang.String" itemvalue="ansi" />
+            <item index="5" class="java.lang.String" itemvalue="kthread" />
+            <item index="6" class="java.lang.String" itemvalue="mouse-jerk" />
+            <item index="7" class="java.lang.String" itemvalue="ctypes-window-info" />
+            <item index="8" class="java.lang.String" itemvalue="mouse" />
+            <item index="9" class="java.lang.String" itemvalue="keyboard-api" />
+            <item index="10" class="java.lang.String" itemvalue="flatten-everything" />
+            <item index="11" class="java.lang.String" itemvalue="pypiwin32" />
+            <item index="12" class="java.lang.String" itemvalue="Py-Keyboard" />
+            <item index="13" class="java.lang.String" itemvalue="ctypes-rgb-values" />
+            <item index="14" class="java.lang.String" itemvalue="mouse-cheater" />
+            <item index="15" class="java.lang.String" itemvalue="mousecontroller" />
+            <item index="16" class="java.lang.String" itemvalue="pynput" />
+            <item index="17" class="java.lang.String" itemvalue="six" />
+            <item index="18" class="java.lang.String" itemvalue="win32gui" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ReassignedToPlainText" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
