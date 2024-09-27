@@ -17,7 +17,34 @@ Stile di rendering basato su OsmAnd (default): I confini amministrativi sono pi�
 	</tr>
 	<tr>
 	<td></td>
+	<td>Scarica file: <p align=center><a href="Highlighted Boundaries.render.xml">Highlighted Boundaries.render.xml</a></p></td>
+	</tr>
+	</tr>
+</tbody>
+</table>
+
+# **Highlighted Admin Borders v.2**
+Come il precedente: I confini amministrativi sono più marcati, inoltre l'itinerario in modalità Notte è più visibile.
+
+<table>
+<thead>
+	<tr>
+		<th>OsmAnd Default - Notte</th>
+		<th>Highlighted Boundaries v.2 - Notte</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+	    <td><img src="default_night.png"></td>
+		<td><img src="admin_boundaries_highlighted_v2_night.png"></td></td>
+	</tr>
+	<tr>
+	    <td><img src="default_night_2.png"></td>
+		<td><img src="admin_boundaries_highlighted_v2_night_2.png"></td></td>
+	</tr>
+	<tr>
 	<td></td>
+	<td>Scarica file: <p align=center><a href="Highlighted Admin Borders v2.render.xml">Highlighted Admin Borders v2.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
