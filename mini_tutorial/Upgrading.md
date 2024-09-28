@@ -1,3 +1,5 @@
+<img src="img/Cloud.svg" width=64>
+
 # I servizi aggiuntivi di OsmAnd: Cloud, Start, Live e Pro
 
 ## OsmAnd Cloud
