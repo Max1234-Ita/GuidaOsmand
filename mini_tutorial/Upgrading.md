@@ -6,6 +6,7 @@ _**Cos'è OsmAnd Cloud?**_
 
 **OsmAnd Cloud è un sistema di storage** (immagazzinamento dati) online introdotto dai creatori di OsmAnd a partire dalla versione 4.3: gli utenti dell'app se ne possono servire per salvare su un server la configurazione dell'app, i tracciati gpx, le mappe, le note, ecc.
 
+<br>
 
 ### Iscrizione
 L'iscrizione al servizio OsmAnd Cloud è gratuita e la procedura è semplice: basta aprire il menu:
@@ -15,18 +16,33 @@ L'iscrizione al servizio OsmAnd Cloud è gratuita e la procedura è semplice: ba
 >/// → Impostazioni → OsmAnd Cloud → Crea un nuovo account
 
 </b></i></p> 
+
 - Digitare un indirizzo email valido al quale si ha accesso e toccare il pulsante 'Continua';
 
+<p align="center">
+<img src="img/OsmAnd Cloud - Email.png" width=360>
+</p> 
 
-- OsmAnd invierà un'email all'indirizzo indicato: aprire il messaggio e prendere nota del codice di verifica che esso contiene.Il codice è unico e rimane valido per alcuni minuti: se la procedura non va a buon fine entro la scadenza, si deve richiederne un altro toccando la dicitura “Non ho ricevuto un codice di verifica” oppure facendo click sul link presente nel testo del messaggio email;
- 
+
+- OsmAnd invierà un'email all'indirizzo indicato: aprire il messaggio e prendere nota del codice di verifica che esso contiene. **Il codice è monouso e rimane valido per alcuni minuti**: se la procedura non va a buon fine entro la scadenza, si deve richiederne un altro toccando la dicitura *“Non ho ricevuto un codice di verifica”* oppure facendo click sul link presente nel testo del messaggio email;
+
+<p align="center">
+<img src="img/OsmAnd Cloud - Codice_Verifica.png" width=440>
+</p> 
 
 - Se l'accesso riesce, compare la schermata principale di OsmAnd Cloud. Toccare il pulsante 'Sincronizza adesso' per caricare immediatamente i dati sul Cloud;  se invece si desidera scegliere quali informazioni dovranno essere inviate al server, l'opzione 'Impostare il backup' permette di decidere quali elementi di OsmAnd salvare sul Cloud: si potrà quindi programmare il salvataggio automatico di impostazioni, preferiti, tracce gpx, mappe, ecc.
 
+<p align="center">
+<img src="img/OsmAnd Cloud - Home.png" width=360>
+</p> 
 
-#### NOTA: 
-<i> Il salvataggio di PDI, tracciati e mappe è disponibile solo con abbonamento al servizio Pro. E' prevista anche una formula d'uso gratuito che però permette però solo di salvare la configurazione dell'app.</i>
+<br>
 
+> #### NOTA: 
+> <i> Il salvataggio di PDI, tracciati e mappe è disponibile solo con abbonamento al servizio Pro. E' prevista anche una formula d'uso gratuito che però permette però solo di salvare la configurazione dell'app.</i>
+
+
+<br>
 
 ### Accesso al servizio
 Se si possiede già un account OsmAnd Cloud, si può eseguire di nuovo l'accesso semplicemente selezionamdo il menu 
@@ -34,7 +50,8 @@ Se si possiede già un account OsmAnd Cloud, si può eseguire di nuovo l'accesso
 
 > /// → Impostazioni → OsmAnd Cloud → Ho già un account
 
-</b></i></p>
+</b></i></p><br>
+
 quindi toccare il pulsante <b><i>' Continua '</i></b> e digitare l'indirizzo email con il quale ci si è registrati.<br>
 Come nel caso dell'iscrizione al servizio, si riceverà un nuovo messaggio contenente il codice monouso, che si dovrà digitare in OsmAnd, come già visto poco sopra.
 
@@ -50,9 +67,9 @@ Si tratta di un servizio gratuito che permette agli utenti di salvare nel Cloud 
  
 Trattandosi di un piano d'uso gratuito, le opzioni disponibili sono limitate e si può solo salvare nel Cloud la configurazione di OsmAnd, ma non le mappe ed i preferiti.
  
-Per iscriversi è sufficiente creare un account OsmAnd Cloud ed accedervi, come illustrato nel paragrafo precedente.
+Per iscriversi è sufficiente creare un account *OsmAnd Cloud* ed accedervi, come illustrato nel paragrafo precedente.
 
-Se non si ha bisogno di utilizzare il salvataggio nel Cloud si può tralasciare questo servizio: l'iscrizione ad _OsmAnd Start_ NON è obbligatoria.
+Se non si ha bisogno di utilizzare il salvataggio nel Cloud si può tralasciare questo servizio: **l'iscrizione ad _OsmAnd Start_ NON è obbligatoria**.
  
 <br>
 <br>
@@ -80,6 +97,7 @@ Per poter beneficiare gratuitamente del servizio OsmAnd Live, bisogna attivarlo,
 * Assicurarsi che sia attivo il plugin 
 
  > /// → Componenti aggiuntivi → Modifiche OSM 
+
  
 * Aprire il menu 
 
@@ -95,11 +113,15 @@ Per poter beneficiare gratuitamente del servizio OsmAnd Live, bisogna attivarlo,
 
 **Il conteggio dei contributi non è sempre immediato**: OsmAnd Live potrebbe quindi attivarsi anche dopo alcune ore o alcuni giorni dal caricamento delle proprie modifiche.
  
-#### NOTA:
-
-_Si considera “contributo” qualsiasi operazione compiuta sugli elementi della mappa: ad esempio mappare una panchina nel parco, una fontanella che eroga acqua potabile o aggiornare la direzione di un senso unico in una strada contano rispettivamente “1”. Anche aggiustare la geometria di un edificio già mappato conta “1”, ma il valore si può incrementare aggiungendo dettagli come ingressi, numeri civici o negozi che si trovano al suo interno e &#40;se conosciuti&#41; i relativi orari di apertura. <br>
-Mappando oggetti più grandi (una strada, un bosco) si possono raggiungere in breve tempo quantità considerevoli di modifiche._
+<br>
  
+> #### NOTA:
+> _Si considera “contributo” qualsiasi operazione compiuta sugli elementi della mappa: ad esempio mappare una panchina nel parco, una fontanella che eroga acqua potabile o aggiornare la direzione di un senso unico in una strada contano rispettivamente “1”. Anche aggiustare la geometria di un edificio già mappato conta “1”, ma il valore si può incrementare aggiungendo dettagli come ingressi, numeri civici o negozi che si trovano al suo interno e &#40;se conosciuti&#41; i relativi orari di apertura. <br>
+Mappando oggetti più grandi (una strada, un bosco) si possono raggiungere in breve tempo quantità considerevoli di modifiche._
+
+
+<br> 
+
 Una volta attivato il servizio, occorre avviare la ricezione automatica degli aggiornamenti:
 
 * Aprire il menu 
