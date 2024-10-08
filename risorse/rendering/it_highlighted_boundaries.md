@@ -44,7 +44,7 @@ Come nel precedente, i confini amministrativi sono più marcati, inoltre l'itine
 	</tr>
 	<tr>
 	<td></td>
-	<td>Scarica file: <p align=center><a href="Highlighted Admin Borders v2.render.xml">Highlighted Admin Borders v2.render.xml</a></p></td>
+	<td>Scarica file: <p align=center><a href="Highlighted AB & Night View.render.xml">Highlighted AB & Night View.render.xml</a></p></td>
 	</tr>
 	</tr>
 </tbody>
