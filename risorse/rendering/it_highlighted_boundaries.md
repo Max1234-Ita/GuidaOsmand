@@ -23,8 +23,8 @@ Stile di rendering basato su OsmAnd (default): I confini amministrativi sono pi�
 </tbody>
 </table>
 
-# **Highlighted Admin Borders v.2**
-Come il precedente: I confini amministrativi sono più marcati, inoltre l'itinerario in modalità Notte è più visibile.
+# **Highlighted AB and Night View**
+Come nel precedente, i confini amministrativi sono più marcati, inoltre l'itinerario in modalità Notte è più visibile.
 
 <table>
 <thead>
