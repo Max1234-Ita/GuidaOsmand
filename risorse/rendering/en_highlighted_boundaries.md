@@ -24,14 +24,14 @@ Map rendering style based on OsmAnd (default), with more highlighted Administrat
 </table>
 
 
-# **Highlighted Admin Boundaries v.2**
-More highlighted Admin Boundaries, same as in the previous version; in addition, the route trail is more visible and easily recognizable in Night mode.
+# **Highlighted AB & Night View**
+More highlighted Admin Boundaries, as in the previous style; in addition, the route trail is more visible and easily recognizable in Night Mode.
 
 <table>
 <thead>
 	<tr>
 		<th>OsmAnd Default - Night</th>
-		<th>Highlighted Borders v.2 - Night</th>
+		<th>Highlighted AB & Night View - Night</th>
 	</tr>
 </thead>
 <tbody>
@@ -45,7 +45,7 @@ More highlighted Admin Boundaries, same as in the previous version; in addition,
 	</tr>
 	<tr>
 	<td></td>
-	<td>Download file: <p align="center"><a href="Highlighted Admin Borders v2.render.xml">Highlighted Admin Borders v2.render.xml</a></p></td>
+	<td>Download file: <p align="center"><a href="Highlighted AB & Night View.render.xml">Highlighted AB & Night View</a></p></td>
 	</tr>
 	</tr>
 </tbody>
@@ -53,10 +53,10 @@ More highlighted Admin Boundaries, same as in the previous version; in addition,
 
 
 ## How to install:
-* Get the full path of the OsmAnd Storage directory from menu */// -> Settings -> OsmAnd Settings -> Data storage folder)*;
-* Download the file *Highlighted Boundaries.render.xml* on your device;
+* Get the full path of the OsmAnd Storage directory from menu ***/// -> Settings -> OsmAnd Settings -> Data storage folder)***;
+* Download the desired file on your device;
 * Copy the file in the OsmAnd storage directory;
 * On Android devices: from the Home screen, open the Recent Apps list and remove OsmAnd from there (if present);
 * Start OsmAnd;
 * Open menu */// -> Configure map -> Map Style*;
-* Select style *Highlighted Boundaries* from the the list.
+* Select style *Highlighted Boundaries* or *Highlighted AB & Night View* from the list.
