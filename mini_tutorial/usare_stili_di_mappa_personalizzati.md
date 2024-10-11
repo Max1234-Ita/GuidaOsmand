@@ -1,3 +1,6 @@
+<img src="img/map-icon-pure.svg" width=64px>
+
+
 # Usare stili di mappa personalizzati
 
 <p align="justify">
