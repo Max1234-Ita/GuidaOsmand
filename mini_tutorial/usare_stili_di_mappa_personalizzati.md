@@ -1,4 +1,4 @@
-<img src="img/map-icon-pure.png" width=64px>
+<img src="img/Map-icon-pure.svg" width=64px>
 
 
 # Usare stili di mappa personalizzati
