@@ -35,21 +35,39 @@ OsmAnd conserva i file di configurazione della mappa nella cartella */rendering*
 </p>
 
 
-Vediamo quindi come fare: ad aggiungere un nuovo stile di mappa: 
+Vediamo quindi come aggiungere un nuovo stile: 
 <br><br>
 
-### Metodo "semplice" (semi-automatico, Android e iOS)
-<p align=justify>
- - Scarica sul tuo dispositivo un file *.render.xml*; ad esempio, nella sezione *Risorse* di questo sito puoi trovarne uno che si chiama *Highlighted AB & Night View.render.xml* e localizza la posizione in cui lo hai salvato (ad esempio la directory */Downloads*). 
 
- - Raggiungi la directory in cui si trova il file utilizzando un qualsiasi File Manager (ad esempio, in Android: *Files*, oppure *Archivio*) e raggiungi quella cartella; Se invece hai inviato il file come allegato (ad esempio via e-mail) apri l'app corrispondente;
+### Metodo "semplice" (semi-automatico, Android e iOS)
+
+ - Scarica sul tuo dispositivo un file *.render.xml*; ad esempio, nella sezione *Risorse* di questo sito puoi trovarne uno che si chiama *"Highlighted AB & Night View"* e localizza la posizione in cui lo hai salvato (di solito, in Android, la posizione di default è la directory  */Downloads*). 
+
+<p align="center">
+ <img src="img/FileDownload.png" width=300>
+</p>
+
+ - Raggiungi la directory in cui si trova il file utilizzando un qualsiasi File Manager e raggiungi quella cartella (in Android il nome dell'app è "*Files*", ma può avere nomi diversi, come "*Archivio*"); Se invece hai inviato il file come allegato (ad esempio via e-mail) apri l'app corrispondente e salvalo in */Downloads*;
  
- - "Apri" il file *.render.xml* per "aprirlo", toccando il suo nome e Seleziona OsmAnd o OsmAnd+ come app per gestirlo;
+ - Se il file è distribuito come archivio (*.zip*, *.rar*, ecc.) dovrai prima "estrarlo": per fare questo tocca il suo nome e, nell'app di gestione file, scegli l'opzione ***"Estrai"***
+
+
+<p align="center">
+ <img src="img/XmlEstrai.png" width=300 align=center>
+</p>
+ 
+ - Ora "Apri" il file *.render.xml* per "aprirlo", toccando il suo nome e Seleziona OsmAnd o OsmAnd+ come app per gestirlo;
+
+<p align="center">
+ <img src="img/FileApriCon.png" width=300 align=center>
+</p>
  
  - Attendi qualche secondo: OsmAnd si avvia ed importa automaticamente il nuovo stile di mappa.
 
  - In OsmAnd, vai al menu ***/// -> Configura la mappa -> Stile della mappa***; il nuovo stile dovrebbe essere elencato tra quelli disponibili; non resta che selezionarlo e tornare alla schermata principale per vederlo applicato (non farebbe male riavviare OsmAnd, però).
-</p>
+
+<br><br>
+
 
 
 ### Metodo un po' più complicato (copia manuale, solo Android)
