@@ -54,11 +54,18 @@ Una volta attivato il servizio, occorre avviare la ricezione automatica degli ag
 * Selezionare le mappe (una o più) per le quali si desidera ottenere gli aggiornamenti Live, spostando il relativo selettore. 
 
 * Se lo si desidera, modificare le impostazioni di aggiornamento della singola mappa (aggiornamento ogni settimana, ogni giorno oppure ogni ora, scaricamento da qualunque rete o solo tramite Wi-Fi) toccando il nome della medesima, anziché il selettore.
+  
+* L'aggiornamento Live delle mappe selezionate dovrebbe avviarsi automaticamente, se le condizioni della connessione ad Internet lo consentono.
 
 <br>
 <br>
 <p align="center"><img src="img/Attivazione Live.jpg"></p>
 
+<br>
+<br>
 
-
+ >**ATTENZIONE**: _gli aggiornamenti sono distribuiti sotto forma di piccole parti di mappa che OsmAnd visualizza sovrapposti alle mappe vettoriali offline installate nel dispositivo.
+>A volte capita che le modifiche dei mappatori cambino profondamente la geometria o la posizione di qualche elemento: in quel caso, esso potrebbe apparire duplicato, poiché la “patch” fornita con l'aggiornamento Live non si sovrappone interamente alla vecchia versione (che è ancora memorizzata nella mappa offline).
+>Queste anomalie scompaiono, in genere, installando il primo aggiornamento mensile della mappa: in quell'occasione, infatti, OsmAnd elimina tutte le parti ottenute tramite Live, in quanto ormai incluse nel pacchetto completo._
+>
 
