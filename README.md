@@ -1,7 +1,7 @@
 # Guida Non Ufficiale a OsmAnd 
 La più completa app di Cartografia e Navigazione per Android e iOS -- In Italiano! 
 
-<img src="pub/Guida_LogoBanner_DarkBG.svg" alt="[Visita il sito]" align="left" hspace="8px" vspace="8px" height="90" title="Visita il sito!">
+<img src="pub/Guida_LogoBanner_DarkBG.svg" alt="[Visita il sito]" align="left" hspace="8px" vspace="8px" height="100" title="Visita il sito!">
 <br>
 
 <p align="right">
