@@ -1,8 +1,8 @@
 # Guida Non Ufficiale a OsmAnd 
 La più completa app di Cartografia e Navigazione per Android e iOS -- In Italiano! 
 
-<img style="vertical-align:middle" src="pub/Guida_Logo.svg" alt="[Logo]" align="left" hspace="8px" vspace="8px" width="64" title="Scarica tutta la Guida in un archivio .zip!">
-<br><a href="http://www.guidaosmand.org" target="_blank">Visita il sito!</a></p>
+<img src="pub/Guida_LogoBanner_DarkBG.svg" alt="[Visita il sito]" align="left" hspace="8px" vspace="8px" height="90" title="Visita il sito!">
+<br>
 
 <p align="right">
 <a href="https://github.com/Max1234-Ita/GuidaOsmand/releases">
