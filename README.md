@@ -4,14 +4,14 @@ La più completa app di Cartografia e Navigazione per Android e iOS -- In Italia
 <a href="www.guidaosmand.org" target="_blank">
 <img src="pub/Guida_LogoBanner_DarkBG.svg" alt="[Visita il sito]" align="left" hspace="8px" vspace="8px" height="100" title="Visita il sito!">
 </a>
-<br>
+<br><br><br>
 
 <p align="right">
 <a href="https://github.com/Max1234-Ita/GuidaOsmand/releases">
-  <img src="pub/Scarica.png" alt="Scarica" width="150" title="Scarica tutta la Guida in un archivio .zip!">
+  <img src="pub/Scarica.png" alt="Scarica" width="120" title="Scarica tutta la Guida in un archivio .zip!">
 </a></p>
 <p align="center">
-<img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
+<img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="40%" align="right">
 </p>
 
 <p>
@@ -55,16 +55,16 @@ There is currently no English version of this guide, but who knows, maybe you ca
 </p>
 
 <br/>
+______
 
-<sub>
+<i><sub>
 L'immagine di copertina è stata creata dall'Autore, basandosi su cartografia OpenStreetMap - (C) Openstreetmap Contributors;<br/>Alcune delle icone utilizzate in questa pagina sono state realizzate da <a href="https://freebiesbug.com/psd-freebies/100-flat-flag-psd-icons" target="_blank">Muharrem Şenyıl</a>  e sono liberamente disponibili:&nbsp;&nbsp;&nbsp;&nbsp; https://freebiesbug.com/psd-freebies/100-flat-flag-psd-icons
 </sub>
 
 <br/>
-<br/>
 <sub>
 The cover picture is by the Author and based on OpenStreetMap Cartography - (C) Openstreetmap Contributors;<br/>Some of the icons used in this page are by <a href="https://commons.wikimedia.org/wiki/User:Zoologist" target="_blank">Zoologist</a>  and freely available on Wikimedia Commons: &nbsp;&nbsp;&nbsp;&nbsp; https://commons.wikimedia.org/w/index.php?search=zoologist+blackout&title=Special:MediaSearch&go=Go&type=image
-</sub>
+</sub></i>
 <br/>
 <br/>
 
