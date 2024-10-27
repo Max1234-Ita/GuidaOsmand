@@ -17,7 +17,7 @@ jobs:
 
       # Upload via FTP
       - name: FTP Deploy
-        uses: Max1234-ita/FTP-Deploy-Assets@4.5.0
+        uses: SamKirkland/FTP-Deploy-Action@4.5.0
         with:
           server: ${{ secrets.GUIDAOSMAND_SERVER }}
           username: ${{ secrets.GUIDAOSMAND_USERNAME }}
