@@ -1,0 +1,24 @@
+name: FTP to Guidaosmand.org
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ftp-deploy:
+    runs-on: ubuntu-latest
+    uses: actions/checkout@v3
+
+    steps:
+      # Checkout del repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Upload via FTP
+      - name: FTP D eploy
+        uses: Max1234-ita/FTP-Deploy-Assets@4.5.0
+        with:
+          server: ${{ secrets.GUIDAOSMAND_SERVER }}
+          username: ${{ secrets.GUIDAOSMAND_USERNAME }}
+                password: ${{ secrets.GUIDAOSMAND_PASSWORD }}
