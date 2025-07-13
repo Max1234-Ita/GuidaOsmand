@@ -1,4 +1,4 @@
-<img src="img/OsmAnd V	eloce.png" style="width:64px;height:64px;">
+
 <img src="img/OsmAnd Veloce.png" style="width:64px;height:64px;">
 
 # VELOCIZZARE L'ESECUZIONE DI OSMAND
