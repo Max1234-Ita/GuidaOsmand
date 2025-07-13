@@ -1,4 +1,5 @@
 <img src="img/OsmAnd V	eloce.png" style="width:64px;height:64px;">
+<img src="img/OsmAnd Veloce.png" style="width:64px;height:64px;">
 
 # VELOCIZZARE L'ESECUZIONE DI OSMAND
 <p><i><b>Ultimamente OsmAnd è molto lento: la mappa si muove a scatti, la registrazione dei tracciati s'interrompe, la posizione non viene aggiornata e l'app sembra non reagire ai comandi, o lo fa con molto ritardo. Perchè?</i></b>
