@@ -153,6 +153,25 @@ Per attivare OsmAnd Pro occorre aprire il menu
 > /// → Impostazioni →Acquisti → Approfondisci
 
 Qui sarà possibile consultare l'elenco dettagliato di tutte le funzioni offerte da _OsmAnd+_ (o  piano di abbonamento _Maps+_) ed il servizio Pro; Toccare quindi il pulsante Continua con OsmAnd Pro, al termine della lista e procedere al pagamento.
+<br>
+
+
+## OsmAnd~ ##
+_**Ho sentito parlare di OsmAnd~. Dove lo trovo? È legale installarlo?**_
+
+**OsmAnd~ è una versione alternativa di OsmAnd** distribuita dallo store F-Droid1, dal quale si possono scaricare gratuitamente moltissime app *OpenSource*.
+
+**Installare i pacchetti da F-Droid è assolutamente legale**: il team che si occupa della loro preparazione, infatti, compila una nuova versione dell'app a partire dal codice sorgente messo a disposizione dagli autori e la ridistribuisce attenendosi alle medesime condizioni imposte dalla licenza d'uso *Open* originale. 
+
+Il codice originale viene vagliato, allo scopo di eliminare da esso qualsiasi parte si appoggi a parti di software non *OpenSource*: può quindi capitare, a volte, che alcune funzionalità delle omologhe versioni “ufficiali” non siano presenti nelle “build” risultanti.
+
+OsmAnd~ offre all'utente, in modo gratuito, tutte le funzioni di OsmAnd+, più alcune che sarebbero disponibili solo abbonandosi al servizio Pro, come gli aggiornamenti orari della mappa, il rendering 3D dei rilievi montuosi e le previsioni meteo.
+
+Purtroppo, però, la sincronizzazione dati da e verso il Cloud e la connessione a sistemi Android Auto non funzionano: nel primo caso la feature è stata rimosssa da F-Droid in quanto basata su librerie software non Free; nel secondo, invece, la “colpa” è di Android Auto, che non riconosce OsmAnd~ come app avviabile.
+
+> #### SUGGERIMENTO: 
+>_Se si sceglie di utilizzare OsmAnd~ conviene innanzitutto installare l'app ufficiale di F-Droid, ottenibile dalla pagina web dello Store; si potrà così sfogliare l'intero catalogo delle app Open disponibili, installare quelle desiderate e ricevere notifiche quando vi fossero degli aggiornamenti._
+
 
 <br><br>
 
