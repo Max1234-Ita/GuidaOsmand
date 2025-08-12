@@ -156,7 +156,7 @@ Qui sarà possibile consultare l'elenco dettagliato di tutte le funzioni offerte
 <br>
 
 
-## OsmAnd~ ##
+## OsmAnd~ 
 _**Ho sentito parlare di OsmAnd~. Dove lo trovo? È legale installarlo?**_
 
 **OsmAnd~ è una versione alternativa di OsmAnd** distribuita dallo store F-Droid1, dal quale si possono scaricare gratuitamente moltissime app *OpenSource*.
