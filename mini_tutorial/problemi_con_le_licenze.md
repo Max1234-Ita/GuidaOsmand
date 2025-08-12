@@ -4,11 +4,13 @@
 
 ***Tempo fa ho acquistato OsmAnd da Amazon Appstore; Ora quel negozio non esiste più e non posso più aggiornare l'app! Devo comprarla di nuovo?***
 
-**Non è detto!** Nel mese di febbraio 2025, Amazon ha comunicato la cessazione delle attività del suo Appstore per la piattaforma Android, a partire dal 20 agosto (-> *https://tinyurl.com/noappstore*).
+**Non è detto!** 
 
-OsmAnd BV ha messo a punto una procedura per supportare gli utilizzatori che hanno acquistato l'app dallo store di Amazon, che prevede, per i servizi in abbonamento (ad esempio, *OsmAnd Pro*) e *OsmAnd Maps+* ottenuta con acquisto in-app da *OsmAnd Free*, la conversione della licenza tramite OsmAnd Cloud.
+Nel mese di febbraio 2025, Amazon ha comunicato la cessazione delle attività del suo Appstore per la piattaforma Android, a partire dal 20 agosto (-> *https://tinyurl.com/noappstore*).
 
-La versione stand-alone *OsmAnd+* non è invece trasferibile, i possessori sono quindi invitati a contattare via email il Supporto Clienti all'indirizzo support@osmand.net per ricevere indicazioni sul da farsi.
+**OsmAnd BV ha messo a punto una procedura** per supportare gli utilizzatori che hanno acquistato l'app dallo store di Amazon; essa prevede la **conversione della licenza** tramite *OsmAnd Cloud* sia per i servizi in abbonamento (ad esempio, *OsmAnd Pro*) che per *OsmAnd Maps+* ottenuta con acquisto in-app da *OsmAnd Free*, .
+
+La versione stand-alone ***OsmAnd+* non è invece trasferibile**, i possessori sono quindi invitati a <u>contattare via email il Supporto Clienti</u> all'indirizzo *support@osmand.net* per ricevere indicazioni sul da farsi.
 
 
 In sostanza, la **procedura da seguire per convertire la propria licenza** "Amazon" in una "Google" è la seguente:
