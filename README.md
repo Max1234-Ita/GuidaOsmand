@@ -8,7 +8,13 @@ Guida **<u>non ufficiale</u>** a OsmAnd, l'app di cartografia e navigazione per 
 
 <p align="center">
 <img src="pub/Frontespizio_864x1222.png" alt="Copertina" width="50%"/>
-</p>
+</p> 
+
+<p align="center">
+<a href="https://www.guidaosmand.org/Supporta-questo-sito">
+  <img src="pub/Supporta.png" alt="Supporta" width="155" title="Supporta la guida">
+</a>
+</p> 
 
 <p>
 <img src="pub/ita.png" alt="Italiano" width="32" margin>   
